@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Engineering
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on multiple projects to learn Web Develpment
-- 📫 How to reach me- EMail:tom.skora@gmx.de
+- 📫 How to reach me- E-Mail:tom.skora@gmx.de
 - ⚡ Fun fact: I won a donut eating contest at a local fair!
 
 <!---
